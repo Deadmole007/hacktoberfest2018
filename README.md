@@ -40,12 +40,12 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Prince Jhabak | III | CSE |
 | Aakash Khaksa | II | IT |
 | Hardik Mundra | II | IT |
+| Harshit Choudhary | II | IT |
 | Ashik Paul | II | CSE |
 | Aditya Vyas | II | IT |
 | Divyansh Sharma | III | CSE |
 | Rishabh Anand | IV | ECE | 
 | Shiv Soni | IV | CSE |
-| Harshit Choudhary | II | IT |
 | gursimran | II | IT |
 | Sparsh Singhal | III | CSE |
 | Akshay Sharma | III | CSE |
